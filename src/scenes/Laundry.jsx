@@ -1,6 +1,6 @@
 import React from "react";
 
-import { UilReact } from "@iconscout/react-unicons";
+
 import Minicontact from "../components/Minicontact";
 
 // images
@@ -32,7 +32,7 @@ const Laundry = () => {
           <li>Emailjs</li>
           <li>HTML</li>
           <li>CSS</li>
-          <li>Netlify</li>
+          <li>Vercel</li>
         </ul>
         <div className="live">
           <h4>LIVE</h4>
@@ -64,7 +64,7 @@ const Laundry = () => {
               React
             </div>
             <div className="tool">Emailjs</div>
-            <div className="tool">Netlify</div>
+            <div className="tool">Vercel</div>
           </div>
           <div className="explanation">
             <h3> Web Stack and Explanation</h3>
@@ -73,7 +73,7 @@ const Laundry = () => {
               easy to make component reusable.{" "}
             </p>
             <p>
-              React hooks are also used and Netlify is also an obvious choice
+              React hooks are also used and Vercel is also an obvious choice
               for deployment because of its speed and reliability.
             </p>
           </div>

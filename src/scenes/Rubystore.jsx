@@ -1,4 +1,3 @@
-import { UilReact } from "@iconscout/react-unicons";
 import Minicontact from "../components/Minicontact";
 import ProWork from "../components/ProWork";
 // images
@@ -26,7 +25,7 @@ const Rubystore = () => {
           <li>Context Api</li>
           <li>Bootstrap</li>
           <li>HTML</li>
-          <li>Netlify</li>
+          <li>Vercel</li>
         </ul>
         <div className="live">
           <h4>LIVE</h4>
@@ -60,7 +59,7 @@ const Rubystore = () => {
             </div>
             <div className="tool">Context Api</div>
             <div className="tool">Bootstrap</div>
-            <div className="tool">Netlify</div>
+            <div className="tool">Vercel</div>
           </div>
           <div className="explanation">
             <h3> Web Stack and Explanation</h3>
@@ -71,7 +70,7 @@ const Rubystore = () => {
             <p>
               React hooks are also used throughout the project to maintain the
               user cart items and allows the cart count and other shopping data
-              to be displayed universally with the use of Context Api. Netlify
+              to be displayed universally with the use of Context Api. Vercel
               is also an obvious choice for deployment because of its speed and
               reliability.
             </p>
