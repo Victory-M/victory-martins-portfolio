@@ -56,7 +56,7 @@ const Ethdomain = () => {
         <div className="stack-explanation">
           <div className="tools">
             <div className="tool">
-              <UilReact size="24" />
+             
               Solidity
             </div>
             <div className="tool">React</div>
