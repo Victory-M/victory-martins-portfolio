@@ -54,7 +54,7 @@ const Rubystore = () => {
         <div className="stack-explanation">
           <div className="tools">
             <div className="tool">
-              <UilReact size="24" />
+             
               React
             </div>
             <div className="tool">Context Api</div>
